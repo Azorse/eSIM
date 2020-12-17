@@ -2,199 +2,199 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "67k08rFdEn2":
+      case "60txlx6Q8BE":
         Script1();
         break;
-      case "6MX5fDRrD8m":
+      case "6PNUmpA1cVN":
         Script2();
         break;
-      case "6iz0ahS30WZ":
+      case "5emAOzywOi4":
         Script3();
         break;
-      case "6APNFo5GyHZ":
+      case "5Z98znhlUXm":
         Script4();
         break;
-      case "5YHho6ceeCC":
+      case "5V9ivyuvZoG":
         Script5();
         break;
-      case "5cf6j8YoCHE":
+      case "6UssTxGPPmk":
         Script6();
         break;
-      case "6N74xpAskIg":
+      case "6K2RSjMN8pe":
         Script7();
         break;
-      case "6BVLr2pF2ik":
+      case "5u77tIz5N9j":
         Script8();
         break;
-      case "6AXTNOA2wNl":
+      case "5VQTGR9NfjX":
         Script9();
         break;
-      case "5w0pRgcnncf":
+      case "6dPN19FHqh3":
         Script10();
         break;
-      case "5kC28XLcLZs":
+      case "5qhYAQsiyZf":
         Script11();
         break;
-      case "685e2Y9BoYE":
+      case "6mwCyPAXQOa":
         Script12();
         break;
-      case "6AkAC45QBST":
+      case "5p69g3lt1HC":
         Script13();
         break;
-      case "5nHUSBUy73P":
+      case "6lNLNi6YJ7p":
         Script14();
         break;
-      case "6j6xIjQDW8A":
+      case "61UmpihJfcD":
         Script15();
         break;
-      case "66sYF2mLNlM":
+      case "5uzwKBnrqH1":
         Script16();
         break;
-      case "5belgUltvSa":
+      case "6OPWe7UVbgU":
         Script17();
         break;
-      case "5iDwdpEGBji":
+      case "5rrtGPbV902":
         Script18();
         break;
-      case "6Y3y69cslD0":
+      case "6kPnsCXBwKK":
         Script19();
         break;
-      case "5xqS5K8Csxt":
+      case "60xnHQKGKvk":
         Script20();
         break;
-      case "6IJaqpkULGb":
+      case "6mCVa8TwLNE":
         Script21();
         break;
-      case "6YNPWpRTqqb":
+      case "5u27yaOFllY":
         Script22();
         break;
-      case "6ACQbHEVdva":
+      case "6fR4NXmGyxH":
         Script23();
         break;
-      case "5miYSvbofqO":
+      case "6iqxBCSF5YX":
         Script24();
         break;
-      case "5aSsgT8zZHZ":
+      case "6mAXqZmSDeg":
         Script25();
         break;
-      case "5vkHcvmv9kC":
+      case "5t5wDdY2xmE":
         Script26();
         break;
-      case "6FB2gxpRhms":
+      case "5yEypVEuS6h":
         Script27();
         break;
-      case "6iv8HZjQHWG":
+      case "6pqkDIXE8gj":
         Script28();
         break;
-      case "6QoVwKdE4lZ":
+      case "6ccYMDVoYTn":
         Script29();
         break;
-      case "6cJfqNRPr4r":
+      case "6kL2a31kA7V":
         Script30();
         break;
-      case "6fibDzQagUP":
+      case "5xh0NURij4u":
         Script31();
         break;
-      case "6ITqPzgEK3a":
+      case "5lGycPF7rks":
         Script32();
         break;
-      case "5sWAc50nJF6":
+      case "64WG9oij4Zu":
         Script33();
         break;
-      case "5fecegF0RCY":
+      case "5fxDlHuI1ye":
         Script34();
         break;
-      case "5rFRqiu4Nom":
+      case "5XBmMe2uW2t":
         Script35();
         break;
-      case "6S2x6GiydLx":
+      case "6dC1Mo2blM8":
         Script36();
         break;
-      case "6Ae3O23UeFK":
+      case "6JBUf6Fgq4s":
         Script37();
         break;
-      case "5kJU8W9ZmTn":
+      case "66JGOwUWVMI":
         Script38();
         break;
-      case "663HkZRmqNO":
+      case "6PI2DGsHuWC":
         Script39();
         break;
-      case "6bOHNDnu9OB":
+      case "5qi2fUAjcFn":
         Script40();
         break;
-      case "5vmCJDNgZc7":
+      case "6ELEEfvCiU7":
         Script41();
         break;
-      case "6Y6UfJz0P8L":
+      case "6eYjSvVCHKz":
         Script42();
         break;
-      case "5xjQoPpnOLw":
+      case "5vvUQpiNF5u":
         Script43();
         break;
-      case "5YZa5GHmRIC":
+      case "5mw2zXiXtT4":
         Script44();
         break;
-      case "6S1IMCABAtL":
+      case "5fuvVGCcGSE":
         Script45();
         break;
-      case "61wld7ORLrY":
+      case "5e7TDE6wOZN":
         Script46();
         break;
-      case "63posB4vvUu":
+      case "6ZdBsWPBLuz":
         Script47();
         break;
-      case "6jRcp9gjvBT":
+      case "6lQWKiAZda8":
         Script48();
         break;
-      case "6oMMF91XQns":
+      case "6LE7I7lbjhY":
         Script49();
         break;
-      case "6kWHW5bfBe0":
+      case "6kfSOEpzMLw":
         Script50();
         break;
-      case "5kdarg4dmGO":
+      case "6gAkubxqOqH":
         Script51();
         break;
-      case "60nI9b5Fzcp":
+      case "6IzoikufLO1":
         Script52();
         break;
-      case "6Fp5WtkjHx9":
+      case "6R4OYk3945i":
         Script53();
         break;
-      case "5u7Mjjpb0fe":
+      case "60Mz9bKP9Wo":
         Script54();
         break;
-      case "6i2yoKx8lwB":
+      case "5noWzWHcnhK":
         Script55();
         break;
-      case "66X3I9ItNiS":
+      case "5h6tV964Gnx":
         Script56();
         break;
-      case "6TDerZgpkYQ":
+      case "6os1WL98Ohy":
         Script57();
         break;
-      case "5l4vVL5KlJL":
+      case "6MNeWmdxZL2":
         Script58();
         break;
-      case "5zy9WwCyLbE":
+      case "6L365QlurlS":
         Script59();
         break;
-      case "5hMLctcbDI5":
+      case "5eXu7rfddqR":
         Script60();
         break;
-      case "5gwzSGCNoGG":
+      case "5tXPBqMeBVc":
         Script61();
         break;
-      case "65gFBz1Sw4u":
+      case "5oJGd4tMOmm":
         Script62();
         break;
-      case "5cr6YHYZ3EQ":
+      case "5pEEcuI4EZd":
         Script63();
         break;
-      case "6QHIuXCVroB":
+      case "5h1kXxRye7j":
         Script64();
         break;
-      case "6IU1I72PfLP":
+      case "6Gxhka6MCp0":
         Script65();
         break;
   }
@@ -202,13 +202,9 @@ function ExecuteScript(strId)
 
 function Script1()
 {
-  //This code is executed when the user clicks the begin exam button
-//this will get the initial data to determine if its a new test or returning
-//to a test that was started but not completed.
-var player = GetPlayer();
-var moduleId = player.GetVar("currentModuleId");
-var langId = player.GetVar("currentLanguageId");
-startSession(moduleId, langId);
+  var player = GetPlayer();
+var volumeCount = player.GetVar('VolumeCount');
+Audio.setMasterVolume(volumeCount);
 }
 
 function Script2()
@@ -224,9 +220,13 @@ startSession(moduleId, langId);
 
 function Script3()
 {
-  var player = GetPlayer();
-var volumeCount = player.GetVar('VolumeCount');
-Audio.setMasterVolume(volumeCount);
+  //This code is executed when the user clicks the begin exam button
+//this will get the initial data to determine if its a new test or returning
+//to a test that was started but not completed.
+var player = GetPlayer();
+var moduleId = player.GetVar("currentModuleId");
+var langId = player.GetVar("currentLanguageId");
+startSession(moduleId, langId);
 }
 
 function Script4()

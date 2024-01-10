@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.12.24693.0%0D%0A%0D%0A00:00:00.188%20--%3E%2000:00:04.532%0D%0A%3Cb%3EPonga%20los%20siguientes%20objetos%20en%20la%20repisa%20para%20crear%20una%20Colocaci%C3%B3n%20Inteligente.%3C/b%3E%0D%0A%0D%0A"}')

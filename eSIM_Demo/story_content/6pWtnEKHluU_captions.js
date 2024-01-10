@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.12.24693.0%0D%0A%0D%0A00:00:00.092%20--%3E%2000:00:04.780%0D%0A%3Cb%3ESeleccione%20la%20foto%20que%20muestra%20una%20persona%20que%20deber%C3%ADa%20acercarse%20antes%20de%20levantar.%3C/b%3E%0D%0A%0D%0A"}')

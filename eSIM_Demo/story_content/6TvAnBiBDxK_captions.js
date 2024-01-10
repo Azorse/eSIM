@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.12.24693.0%0D%0A%0D%0A00:00:00.256%20--%3E%2000:00:05.164%0D%0A%3Cb%3EAqu%C3%AD%20est%C3%A1%20una%20breve%20introducci%C3%B3n%20a%20sus%20zonas%20verde,%20amarilla%20y%20roja.%3C/b%3E%0D%0A%0D%0A"}')
